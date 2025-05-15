@@ -1,6 +1,6 @@
-# PHP Forum & Blog Platform
+# PHP Blog Platform
 
-A basic **forum and blog website** built with **PHP and MySQL**, created in **May–June 2022**. The project includes functionality for user authentication, blogging, and basic image uploads.
+A basic **blog website** built with **PHP and MySQL**, created in **May–June 2022**. The project includes functionality for user authentication, blogging, and basic image uploads.
 
 ---
 
