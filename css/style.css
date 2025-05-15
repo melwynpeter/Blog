@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*-- navbar --*/
+.navbar{
+    background-color: black;
+    display: flex;
+}
+.nav-list{
+    width: 100% ;
+    margin: 10px;
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+}
+.nav-links{
+    color: white;
+    text-decoration: none;
+}
+.logo{
+    justify-self: start;
+}
+
+/*-- blog --*/
+/*-- container --*/
+.container{
+    margin: 30px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.blog{
+    width: 70%;
+}
+
+/*-- button ---*/
+#btn{
+    margin: 10px 0 0 0;
+    padding: 7px;
+    /* background-color: aqua; */
+    color: white;
+    border: none;
+}
+
+/*-- post --*/
+.post{
+    margin: 10px 0 0 0;
+}
